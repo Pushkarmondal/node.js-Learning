@@ -1,16 +1,16 @@
 {
-  "name": "quote-generator-api",
+  "name": "npm",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "node js learning",
+  "main": "npm.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "author": "pushkar",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2",
-    "node-quotegen": "^0.0.2"
+    "chalk": "^5.3.0",
+    "validator": "^13.11.0"
   }
 }
